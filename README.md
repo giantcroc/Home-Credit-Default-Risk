@@ -1,2 +1,2 @@
-# Elo-Merchant-Category-Recommendation
+# Home-Credit-Default-Risk
 kaggle data-mining competition
